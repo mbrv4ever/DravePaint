@@ -2,6 +2,12 @@
 
 Eenvoudige tekenapp met lagen.
 
+## ðŸŽ¬ Uitlegvideo
+
+[![Uitlegvideo DravePaint](https://dravenlock.nl/video/DravePaint.jpg)](https://dravenlock.nl/video/DravePaint.mp4)
+
+[â–¶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DravePaint.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Media en creatief · versie 0.1.13*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
